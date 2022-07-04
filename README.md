@@ -1,1 +1,1 @@
-# docker-registry
+# Demo Docker Registry
