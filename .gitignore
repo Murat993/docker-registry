@@ -1,1 +1,2 @@
-/docker/development/nginx/auth/htpasswd
+/provisioning/hosts.yml
+/htpasswd
