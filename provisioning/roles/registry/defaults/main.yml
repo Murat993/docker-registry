@@ -1,3 +1,4 @@
 certbot_email: muratnysambaev93@gmail.com
 certbot_hosts:
   - registry.murat-nysambaev.ru
+  - cache-registry.murat-nysambaev.ru
